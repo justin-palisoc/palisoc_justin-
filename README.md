@@ -2,4 +2,4 @@
 
 Web Development
 
-Live site: https://github.com/justin-palisoc/palisoc_justin-.git  
+Live site: https://justin-palisoc.github.io/palisoc_justin-/
